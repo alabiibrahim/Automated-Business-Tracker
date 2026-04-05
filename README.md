@@ -59,10 +59,10 @@ How would you have helped solve this? write out the fastest and smart approach t
 
 ## Images
 
-![image](image/001.png)
+![image](image/001.PNG)
 
 
-![image](image/002.png)
+![image](image/002.PNG)
 
 
-![image](image/003.png)
+![image](image/003.PNG)
