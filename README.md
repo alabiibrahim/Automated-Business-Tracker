@@ -59,16 +59,16 @@ How would you have helped solve this? write out the fastest and smart approach t
 
 ## Images
 
-Revenue Tab: This tracks date, contractor, load description, amount, payment method, and notes. Payment method is a dropdown (Check, ACH, Wire, Cash, etc.). Rows are pre-formatted down to row 200 so you just type and go.
+**Revenue Tab:** This tracks date, contractor, load description, amount, payment method, and notes. Payment method is a dropdown (Check, ACH, Wire, Cash, etc.). Rows are pre-formatted down to row 200 so you just type and go.
 
 ![image](image/001.PNG)
 
 
-Expenses Tab: This also tracks date, category, vendor, amount, receipt number, and notes. Expense Category is a dropdown with 14 preset options (Fuel, Truck Payment, Insurance, Maintenance, Repairs, Permits, Tolls, Tires, and more) so entries stay consistent.
+**Expenses Tab:** This also tracks date, category, vendor, amount, receipt number, and notes. Expense Category is a dropdown with 14 preset options (Fuel, Truck Payment, Insurance, Maintenance, Repairs, Permits, Tolls, Tires, and more) so entries stay consistent.
 
 ![image](image/002.PNG)
 
 
-📊 Monthly Summary Tab: It auto-calculates everything the moment a row is added to the other tabs. Shows Total Revenue, Total Expenses, and Net Profit for each month, plus a breakdown by Fuel, Truck Payment, Insurance, Maintenance/Repairs, and Other. There's an Annual Total row at the bottom.
+**Monthly Summary Tab:** It auto-calculates everything the moment a row is added to the other tabs. Shows Total Revenue, Total Expenses, and Net Profit for each month, plus a breakdown by Fuel, Truck Payment, Insurance, Maintenance/Repairs, and Other. There's an Annual Total row at the bottom.
 
 ![image](image/003.PNG)
