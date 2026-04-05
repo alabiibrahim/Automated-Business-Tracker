@@ -55,3 +55,14 @@ Please include:
 
 
 How would you have helped solve this? write out the fastest and smart approach that convinces the client to give you the job on upwork
+
+
+## Images
+
+![image](image/001.png)
+
+
+![image](image/002.png)
+
+
+![image](image/003.png)
