@@ -54,9 +54,6 @@ Please include:
 ## What to do.
 
 
-How would you have helped solve this? write out the fastest and smart approach that convinces the client to give you the job on upwork
-
-
 ## Images
 
 **Revenue Tab:** This tracks date, contractor, load description, amount, payment method, and notes. Payment method is a dropdown (Check, ACH, Wire, Cash, etc.). Rows are pre-formatted down to row 200 so you just type and go.
